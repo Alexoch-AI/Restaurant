@@ -1,4 +1,4 @@
-# restouran
+# restaurant
 Данное приложение реализовано с целью показать владение CRUD-операциями, умение использовать React/Redux, React Router, Thunk.
 
 Использован react-bootstrap.
